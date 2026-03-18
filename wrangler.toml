@@ -1,0 +1,7 @@
+name = "notification-service"
+main = "src/index.ts"
+compatibility_date = "2026-03-18"
+
+[[kv_namespaces]]
+binding = "NOTIFICATION_KV"
+id = "aba314195ec646608a7784c5206b083a"
